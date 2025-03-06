@@ -1,0 +1,16 @@
+{
+  "70563877-3cc5-4db3-8883-a2a641267b59": {
+    "name": "Wrist watch",
+    "price": 500,
+    "quantity": 50,
+    "image": "image_url.png",
+    "id": "70563877-3cc5-4db3-8883-a2a641267b59"
+  },
+  "96c0a6fb-6db6-4492-974c-1c522c9ffb3e": {
+    "name": "Couch",
+    "price": 10000,
+    "quantity": 50,
+    "image": "image_url.png",
+    "id": "96c0a6fb-6db6-4492-974c-1c522c9ffb3e"
+  }
+}
